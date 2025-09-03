@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+.env
+.ipynb_checkpoints/
+# Data & models (do NOT commit large datasets or pretrained models)
+data/
+models/
+*.h5
+*.ckpt
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
